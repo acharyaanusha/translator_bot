@@ -1,2 +1,2 @@
-# translator_bot
-# translator_bot
+# sample-telegram-app
+Boilerplate code for telegram bot
